@@ -1,0 +1,8 @@
+cache/*
+!cache/.placeholder
+data/**
+!data/.placeholder
+models/**
+!models/.placeholder
+wandb/**
+work/**
